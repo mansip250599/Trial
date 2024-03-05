@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSTCRM", "GSTCRM\GSTCRM.csproj", "{21AC7D9B-CE31-4A8D-A999-C844D4D45CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMClassLibrary", "CRMClassLibrary\CRMClassLibrary.csproj", "{DD1AC384-72F8-4C26-9C06-D8BEA15CFA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21AC7D9B-CE31-4A8D-A999-C844D4D45CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AC7D9B-CE31-4A8D-A999-C844D4D45CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AC7D9B-CE31-4A8D-A999-C844D4D45CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AC7D9B-CE31-4A8D-A999-C844D4D45CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1AC384-72F8-4C26-9C06-D8BEA15CFA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1AC384-72F8-4C26-9C06-D8BEA15CFA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1AC384-72F8-4C26-9C06-D8BEA15CFA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1AC384-72F8-4C26-9C06-D8BEA15CFA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933118B8-C4C7-4434-B157-2F3AF0283EAA}
+	EndGlobalSection
+EndGlobal
